@@ -1,8 +1,6 @@
 #pragma once
 
 #include "doof_runtime.hpp"
-#include "types.hpp"
-
 #include <cerrno>
 #include <cctype>
 #include <cstdint>
